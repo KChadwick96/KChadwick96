@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**KChadwick96/KChadwick96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm currently working at**
 
-Here are some ideas to get you started:
+<img src="https://q-cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg" width="250">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I work with**
+
+<span><img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg" width="150"></span>
+<span><img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/10/nodejs.png?fit=1240%2C700&ssl=1" width="150"></span>
+<span><img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="100"></span>
+
+
+### My personal project
+
+I'm currently working on a quiz app called Kwiz, you can vist it [here](https://kwizgame.com)
