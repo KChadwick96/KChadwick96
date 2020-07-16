@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm currently working at**
+**I'm a Frontend Engineer currently working at**
 
 <img src="https://q-cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg" width="250">
 
@@ -11,6 +11,10 @@
 <span><img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="100"></span>
 
 
-### My personal project
+### Kwiz
 
 I'm currently working on a quiz app called Kwiz, you can vist it [here](https://kwizgame.com)
+
+Users can create their own quizzes and then invite their friends to a realtime online quiz 🤓
+
+<img src="https://i.imgur.com/26gTS85.png" width="300" />
