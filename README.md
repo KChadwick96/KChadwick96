@@ -15,7 +15,7 @@ Check out [Ninja Labs](https://ninja-labs.com/) too where I showcase some of my 
 
 ### Kwiz
 
-I'm currently working on a quiz app called Kwiz, you can vist it [here](https://kwizgame.com)
+I'm currently working on a quiz app called Kwiz, you can vist it [here](http://kwizgame.com)
 
 Users can create their own quizzes and then invite their friends to a realtime online quiz 🤓
 
